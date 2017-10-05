@@ -1,0 +1,5 @@
+FROM node:8.4
+
+ENV APP_PATH /usr/src
+
+WORKDIR $APP_PATH
