@@ -1,0 +1,13 @@
+{
+  "name": "github-scheduler",
+  "version": "0.0.0",
+  "description": "now making...",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masayannuu/github-scheduler.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
