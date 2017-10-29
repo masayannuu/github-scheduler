@@ -1,4 +1,4 @@
-FROM node:8.4
+FROM node:8.6
 
 ENV APP_PATH /usr/src
 
